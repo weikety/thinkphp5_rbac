@@ -10,7 +10,9 @@ thinkphp5.0 权限管理
 
 4、创建虚拟域名admin.demo.com，指向网站目录public文件夹；
 
-5、访问admin.demo.com登录，账号：Function 密码：123456
+5、在host文件中添加127.0.0.1	admin.demo.com
+
+6、访问admin.demo.com登录，账号：Function 密码：123456；
 
 项目截图：
 
